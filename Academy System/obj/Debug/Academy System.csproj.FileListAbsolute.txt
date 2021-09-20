@@ -1,0 +1,54 @@
+C:\Users\user\source\repos\Academy System\Academy System\bin\Debug\Academy System.exe.config
+C:\Users\user\source\repos\Academy System\Academy System\bin\Debug\Academy System.exe
+C:\Users\user\source\repos\Academy System\Academy System\bin\Debug\Academy System.pdb
+C:\Users\user\source\repos\Academy System\Academy System\obj\Debug\Academy_System.Form1.resources
+C:\Users\user\source\repos\Academy System\Academy System\obj\Debug\Academy_System.Properties.Resources.resources
+C:\Users\user\source\repos\Academy System\Academy System\obj\Debug\Academy System.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Academy System\Academy System\obj\Debug\Academy System.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Academy System\Academy System\obj\Debug\Academy System.exe
+C:\Users\user\source\repos\Academy System\Academy System\obj\Debug\Academy System.pdb
+C:\Users\user\source\repos\Academy System\Academy System\obj\Debug\Academy_System.HomePage.resources
+C:\Users\user\source\repos\Academy System\Academy System\obj\Debug\Academy_System.addcourse.resources
+C:\Users\user\source\repos\Academy System\Academy System\obj\Debug\Academy_System.deletecourse.resources
+C:\Users\user\source\repos\Academy System\Academy System\obj\Debug\Academy_System.Addteacher.resources
+C:\Users\user\source\repos\Academy System\Academy System\obj\Debug\Academy_System.AddStudent.resources
+C:\Users\user\source\repos\Academy System\Academy System\obj\Debug\Academy_System.Students.resources
+C:\Users\user\source\repos\Academy System\Academy System\obj\Debug\Academy_System.Teachers.resources
+C:\Users\user\source\repos\Academy System\Academy System\obj\Debug\Academy_System.Courses.resources
+C:\Users\user\source\repos\Academy System\Academy System\bin\Debug\EntityFramework.dll
+C:\Users\user\source\repos\Academy System\Academy System\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\source\repos\Academy System\Academy System\bin\Debug\EntityFramework.xml
+C:\Users\user\source\repos\Academy System\Academy System\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\source\repos\Academy System\Academy System\obj\Debug\Academy System.csproj.CopyComplete
+C:\Users\user\source\repos\Academy System\Academy System\obj\Debug\Academy System.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\Academy System\Academy System\obj\Debug\Academy_System.Fee.resources
+C:\Users\user\source\repos\Academy System\Academy System\obj\Debug\Academy_System.StudentsReport.resources
+C:\Users\user\source\repos\Academy System\Academy System\obj\Debug\Academy_System.Financial.resources
+C:\Users\user\source\repos\Academy System\Academy System\obj\Debug\Academy_System.TeachersReport.resources
+E:\Semester 6\Academy System\Academy System\bin\Debug\Academy System.exe.config
+E:\Semester 6\Academy System\Academy System\bin\Debug\Academy System.exe
+E:\Semester 6\Academy System\Academy System\bin\Debug\Academy System.pdb
+E:\Semester 6\Academy System\Academy System\bin\Debug\EntityFramework.dll
+E:\Semester 6\Academy System\Academy System\bin\Debug\EntityFramework.SqlServer.dll
+E:\Semester 6\Academy System\Academy System\bin\Debug\EntityFramework.xml
+E:\Semester 6\Academy System\Academy System\bin\Debug\EntityFramework.SqlServer.xml
+E:\Semester 6\Academy System\Academy System\obj\Debug\Academy System.csprojResolveAssemblyReference.cache
+E:\Semester 6\Academy System\Academy System\obj\Debug\Academy_System.addcourse.resources
+E:\Semester 6\Academy System\Academy System\obj\Debug\Academy_System.AddStudent.resources
+E:\Semester 6\Academy System\Academy System\obj\Debug\Academy_System.Addteacher.resources
+E:\Semester 6\Academy System\Academy System\obj\Debug\Academy_System.Courses.resources
+E:\Semester 6\Academy System\Academy System\obj\Debug\Academy_System.deletecourse.resources
+E:\Semester 6\Academy System\Academy System\obj\Debug\Academy_System.Fee.resources
+E:\Semester 6\Academy System\Academy System\obj\Debug\Academy_System.StudentsReport.resources
+E:\Semester 6\Academy System\Academy System\obj\Debug\Academy_System.Financial.resources
+E:\Semester 6\Academy System\Academy System\obj\Debug\Academy_System.Form1.resources
+E:\Semester 6\Academy System\Academy System\obj\Debug\Academy_System.HomePage.resources
+E:\Semester 6\Academy System\Academy System\obj\Debug\Academy_System.Properties.Resources.resources
+E:\Semester 6\Academy System\Academy System\obj\Debug\Academy_System.Students.resources
+E:\Semester 6\Academy System\Academy System\obj\Debug\Academy_System.Teachers.resources
+E:\Semester 6\Academy System\Academy System\obj\Debug\Academy_System.TeachersReport.resources
+E:\Semester 6\Academy System\Academy System\obj\Debug\Academy System.csproj.GenerateResource.Cache
+E:\Semester 6\Academy System\Academy System\obj\Debug\Academy System.csproj.CoreCompileInputs.cache
+E:\Semester 6\Academy System\Academy System\obj\Debug\Academy System.exe
+E:\Semester 6\Academy System\Academy System\obj\Debug\Academy System.pdb
+E:\Semester 6\Academy System\Academy System\bin\Debug\Bunifu_UI_v1.5.4.dll

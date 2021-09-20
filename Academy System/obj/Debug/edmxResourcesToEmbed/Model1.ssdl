@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="TutionCenterModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Admin">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="numeric" Precision="18" Scale="0" Nullable="false" />
+    <Property Name="Name" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Password" Type="nvarchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Courses">
+    <Key>
+      <PropertyRef Name="CourseCode" />
+    </Key>
+    <Property Name="CourseCode" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="CourseTitle" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="CourseFee" Type="numeric" Precision="18" Scale="0" Nullable="false" />
+    <Property Name="CourseTeacher" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="StartDate" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="EndDate" Type="nvarchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Students">
+    <Key>
+      <PropertyRef Name="StudentId" />
+    </Key>
+    <Property Name="StudentId" Type="int" Nullable="false" />
+    <Property Name="StudentName" Type="nvarchar" MaxLength="50" />
+    <Property Name="FatherName" Type="nvarchar" MaxLength="50" />
+    <Property Name="Gender" Type="nvarchar" MaxLength="50" />
+    <Property Name="Dateofbirth" Type="nvarchar" MaxLength="50" />
+    <Property Name="Tot_courses" Type="numeric" Precision="18" Scale="0" />
+    <Property Name="Course1" Type="nvarchar" MaxLength="50" />
+    <Property Name="Course2" Type="nvarchar" MaxLength="50" />
+    <Property Name="Course3" Type="nvarchar" MaxLength="50" />
+    <Property Name="Course4" Type="nvarchar" MaxLength="50" />
+    <Property Name="Course5" Type="nvarchar" MaxLength="50" />
+    <Property Name="StartDate" Type="nvarchar" MaxLength="50" />
+    <Property Name="EndDate" Type="nvarchar" MaxLength="50" />
+    <Property Name="TotalFee" Type="numeric" Precision="18" Scale="0" />
+    <Property Name="RemainingDues" Type="numeric" Precision="18" Scale="0" />
+    <Property Name="FeeStatus" Type="nvarchar" MaxLength="50" />
+    <Property Name="Email" Type="nvarchar" MaxLength="50" />
+    <Property Name="Phone" Type="nvarchar" MaxLength="50" />
+    <Property Name="FeeSubmissionDate" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="Teachers">
+    <Key>
+      <PropertyRef Name="TeacherId" />
+    </Key>
+    <Property Name="TeacherId" Type="int" Nullable="false" />
+    <Property Name="TeacherName" Type="nvarchar" MaxLength="50" />
+    <Property Name="Gender" Type="nvarchar" MaxLength="50" />
+    <Property Name="Qualification" Type="nvarchar" MaxLength="50" />
+    <Property Name="Noofcrses" Type="numeric" Precision="18" Scale="0" />
+    <Property Name="Course1" Type="nvarchar" MaxLength="50" />
+    <Property Name="Course2" Type="nvarchar" MaxLength="50" />
+    <Property Name="Course3" Type="nvarchar" MaxLength="50" />
+    <Property Name="Course4" Type="nvarchar" MaxLength="50" />
+    <Property Name="Course5" Type="nvarchar" MaxLength="50" />
+    <Property Name="Salary" Type="numeric" Precision="18" Scale="0" />
+    <Property Name="JoiningDate" Type="nvarchar" MaxLength="50" />
+    <Property Name="Email" Type="nvarchar" MaxLength="50" />
+    <Property Name="Phone" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityContainer Name="TutionCenterModelStoreContainer">
+    <EntitySet Name="Admin" EntityType="Self.Admin" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Courses" EntityType="Self.Courses" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Students" EntityType="Self.Students" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Teachers" EntityType="Self.Teachers" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>
